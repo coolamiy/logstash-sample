@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<ExecutionLogModel>
+  <LogEvent level="INFO" time="2018-07-10T04:12:26Z" shapename="initializing..." shapetype="initializing..." shapelabel="" shapeextendedinfo="">
+    <Message>Executing Process Performance Management- Past(Child)-STAGE (Continuation f_0_0)</Message>
+  </LogEvent>
+  <LogEvent level="INFO" time="2018-07-10T04:12:26Z" shapename="shape10" shapetype="Try/Catch" shapelabel="" shapeextendedinfo="">
+    <Message>Executing Try/Catch Shape continuation as f_0_0 with 1 document(s).</Message>
+  </LogEvent>
+  <LogEvent level="INFO" time="2018-07-10T04:12:26Z" shapename="shape10" shapetype="Try/Catch" shapelabel="" shapeextendedinfo="">
+    <Message>Shape executed successfully in 82 ms.</Message>
+  </LogEvent>
+  <LogEvent level="INFO" time="2018-07-10T04:12:26Z" shapename="shape13" shapetype="Map" shapelabel="" shapeextendedinfo="Performance Management- Past Year(groovy to FF)">
+    <Message>Executing Map with 1 document(s).</Message>
+  </LogEvent>
+  <LogEvent level="INFO" time="2018-07-10T04:12:26Z" shapename="shape13" shapetype="Map" shapelabel="" shapeextendedinfo="Performance Management- Past Year(groovy to FF)">
+    <Message>Shape executed successfully in 2 ms.</Message>
+  </LogEvent>
+  <LogEvent level="INFO" time="2018-07-10T04:12:26Z" shapename="shape14" shapetype="Return Documents" shapelabel="Success" shapeextendedinfo="">
+    <Message>Adding 1 document(s) to Return Documents return store.</Message>
+  </LogEvent>
+  <LogEvent level="INFO" time="2018-07-10T04:12:26Z" shapename="shape14" shapetype="Return Documents" shapelabel="Success" shapeextendedinfo="">
+    <Message>Shape executed successfully in 1 ms.</Message>
+  </LogEvent>
+  <LogEvent level="INFO" time="2018-07-10T04:12:26Z" shapename="cleanup..." shapetype="cleanup..." shapelabel="" shapeextendedinfo="">
+    <Message>Returning 1 document(s) in Return Documents return store.</Message>
+  </LogEvent>
+  <LogEvent level="INFO" time="2018-07-10T04:12:26Z" shapename="cleanup..." shapetype="cleanup..." shapelabel="" shapeextendedinfo="">
+    <Message>Process execution completed normally.</Message>
+  </LogEvent>
+</ExecutionLogModel>
